@@ -2,13 +2,13 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "update": "node ./update.js"
+    "update": "node ./update.js",
+    "publish": "node ./publish.js"
   },
-  "devDependencies": {
-    "lerna": "^3.4.3"
-  },
+  "devDependencies": {},
   "dependencies": {
     "del": "^3.0.0",
+    "execa": "^1.0.0",
     "node-fetch": "^2.3.0",
     "unzip-crx": "^0.2.0"
   }

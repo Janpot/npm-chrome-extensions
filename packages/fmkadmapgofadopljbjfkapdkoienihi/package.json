@@ -1,5 +1,5 @@
 {
-  "name": "@chrome-extensions/react-devtools",
+  "name": "@npm-chrome-extensions/react-devtools",
   "version": "3.4.2",
   "description": "Adds React debugging tools to the Chrome Developer Tools.",
   "license": "BSD-3-Clause"
